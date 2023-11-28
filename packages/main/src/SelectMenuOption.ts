@@ -28,7 +28,7 @@ import type { AccessibilityAttributes } from "./ListItem.js";
  * @constructor
  * @author SAP SE
  * @alias sap.ui.webc.main.SelectMenuOption
- * @extends sap.ui.webc.base.UI5Element
+ * @extends sap.ui.webc.main.CustomListItem
  * @implements sap.ui.webc.main.ISelectMenuOption
  * @tagname ui5-select-menu-option
  * @public

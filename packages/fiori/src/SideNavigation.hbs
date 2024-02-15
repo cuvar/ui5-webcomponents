@@ -1,4 +1,4 @@
-<nav class="ui5-sn-root {{classes.root}}" role="{{_rootRole}}">
+<nav class="ui5-sn-root {{classes.root}}" role="{{_rootRole}}" part="root">
 	{{> header }}
 
 	{{#if collapsed}}
@@ -13,7 +13,9 @@
 			{{> overflowItem}}
 		</div>
 	{{else}}
-		<ul role="tree"
+		<ul
+			part="list"
+			role="tree"
 			class="ui5-sn-list ui5-sn-flexible"
 			aria-roledescription="{{ariaRoleDescNavigationList}}"
 		>

@@ -24321,7 +24321,7 @@
                                     }
                                 ]
                             },
-                            "description": "Defines the semantic level of the title.\n\n<b>Note:</b> Used for accessibility purposes only.",
+                            "description": "Defines the semantic level of the title.\n\n<b>Note:</b> Used for accessibility purposes only.\n\n<br/>\n\n<b>Note:</b> Doesn't take effect when <code>title</code> slot is being used.",
                             "default": "\"H2\"",
                             "privacy": "public",
                             "_ui5since": "1.20.0",

@@ -1,1 +1,0 @@
-import{r as t}from"./bundle.esm-39633e3f.js";import o from"./tnt-Dialog-Help-2c4a88b5.js";import r from"./tnt-Scene-Help-f03d85bc.js";import e from"./tnt-Spot-Help-c734058e.js";const s="Help",n="tnt",l="V4";t(s,{dialogSvg:o,sceneSvg:r,spotSvg:e,set:n,collection:l});const a="tnt/Help";export{a as default,o as dialogSvg,r as sceneSvg,e as spotSvg};

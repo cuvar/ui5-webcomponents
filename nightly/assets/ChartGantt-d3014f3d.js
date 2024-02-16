@@ -1,1 +1,0 @@
-import{r as t}from"./bundle.esm-39633e3f.js";import o from"./tnt-Dialog-ChartGantt-9788142c.js";import r from"./tnt-Scene-ChartGantt-98285275.js";import n from"./tnt-Spot-ChartGantt-8255f47d.js";const a="ChartGantt",s="tnt",e="V5";t(a,{dialogSvg:o,sceneSvg:r,spotSvg:n,set:s,collection:e});const p="tnt/ChartGantt";export{p as default,o as dialogSvg,r as sceneSvg,n as spotSvg};

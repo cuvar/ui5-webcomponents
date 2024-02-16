@@ -1,0 +1,1 @@
+import{r as t}from"./bundle.esm-82329e87.js";import r from"./tnt-Dialog-ChartArea2-77ccab9e.js";import o from"./tnt-Scene-ChartArea2-7e645fef.js";import a from"./tnt-Spot-ChartArea2-f21ac4a0.js";const e="ChartArea2",s="tnt",n="V5";t(e,{dialogSvg:r,sceneSvg:o,spotSvg:a,set:s,collection:n});const p="tnt/ChartArea2";export{p as default,r as dialogSvg,o as sceneSvg,a as spotSvg};

@@ -1,1 +1,0 @@
-import{r as t}from"./bundle.esm-39633e3f.js";import o from"./tnt-Dialog-Systems-06d28c83.js";import s from"./tnt-Scene-Systems-adc69e0f.js";import r from"./tnt-Spot-Systems-92d76750.js";const e="Systems",m="tnt",n="V5";t(e,{dialogSvg:o,sceneSvg:s,spotSvg:r,set:m,collection:n});const p="tnt/Systems";export{p as default,o as dialogSvg,s as sceneSvg,r as spotSvg};

@@ -68,4 +68,7 @@ CustomTitle.args = {
     default: `
 	<ui5-button icon="refresh">Try again</ui5-button>`,
 };
+CustomTitle.parameters = {
+    controls: { exclude: ['titleLevel'] },
+};
 //# sourceMappingURL=IllustratedMessage.stories.js.map

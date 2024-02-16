@@ -1,0 +1,1 @@
+import{r as o}from"./bundle.esm-82329e87.js";import t from"./tnt-Dialog-Components-1ccc31fb.js";import n from"./tnt-Scene-Components-46d3524c.js";import s from"./tnt-Spot-Components-4546c52b.js";const r="Components",e="tnt",m="V4";o(r,{dialogSvg:t,sceneSvg:n,spotSvg:s,set:e,collection:m});const l="tnt/Components";export{l as default,t as dialogSvg,n as sceneSvg,s as spotSvg};

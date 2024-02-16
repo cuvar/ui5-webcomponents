@@ -1,0 +1,1 @@
+import{r as t}from"./bundle.esm-82329e87.js";import o from"./tnt-Dialog-ChartPie-22add98c.js";import r from"./tnt-Scene-ChartPie-4fc52a76.js";import e from"./tnt-Spot-ChartPie-1cf8e70d.js";const i="ChartPie",s="tnt",n="V4";t(i,{dialogSvg:o,sceneSvg:r,spotSvg:e,set:s,collection:n});const p="tnt/ChartPie";export{p as default,o as dialogSvg,r as sceneSvg,e as spotSvg};

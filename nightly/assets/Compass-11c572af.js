@@ -1,1 +1,0 @@
-import{r as o}from"./bundle.esm-39633e3f.js";import t from"./tnt-Dialog-Compass-45ba15d7.js";import s from"./tnt-Scene-Compass-fbc897a3.js";import r from"./tnt-Spot-Compass-310d52e6.js";const m="Compass",n="tnt",a="V4";o(m,{dialogSvg:t,sceneSvg:s,spotSvg:r,set:n,collection:a});const l="tnt/Compass";export{l as default,t as dialogSvg,s as sceneSvg,r as spotSvg};

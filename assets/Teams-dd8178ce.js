@@ -1,0 +1,1 @@
+import{r as t}from"./bundle.esm-abbea6ad.js";import o from"./tnt-Dialog-Teams-79e63dab.js";import s from"./tnt-Scene-Teams-db510820.js";import r from"./tnt-Spot-Teams-71fdea77.js";const e="Teams",m="tnt",n="V4";t(e,{dialogSvg:o,sceneSvg:s,spotSvg:r,set:m,collection:n});const p="tnt/Teams";export{p as default,o as dialogSvg,s as sceneSvg,r as spotSvg};

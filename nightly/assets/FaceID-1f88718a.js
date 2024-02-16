@@ -1,0 +1,1 @@
+import{r as t}from"./bundle.esm-39633e3f.js";import o from"./tnt-Dialog-FaceID-1c02d930.js";import r from"./tnt-Scene-FaceID-aed6ce4b.js";import e from"./tnt-Spot-FaceID-c9abe0ac.js";const s="FaceID",c="tnt",n="V5/HC";t(s,{dialogSvg:o,sceneSvg:r,spotSvg:e,set:c,collection:n});const p="tnt/FaceID";export{p as default,o as dialogSvg,r as sceneSvg,e as spotSvg};
